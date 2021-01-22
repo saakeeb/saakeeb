@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm <a href="https://nazmus-sakib.web.app/" rel="nofollow">Nazmus Sakib</a></h1>
-<h3 align="center">An enthusiast frontend developer from Bangladesh</h3>
+<h3 align="center">An enthusiast frontend develope</h3>
 <br/><br/>
 
 - 🌱 I’m currently learning **ReactJS and other library and framework**
