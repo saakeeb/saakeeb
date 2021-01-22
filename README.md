@@ -13,6 +13,16 @@
 - ⚡ Fun fact **I love to travel, play cricket**
 
 <br/><br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saakeeb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nazmus-sakib-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazmus-sakib-developer" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12980133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12980133" height="30" width="40" /></a>
+<a href="https://fb.com/sakib752" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sakib752" height="30" width="40" /></a>
+<a href="https://instagram.com/n_saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n_saakeeb" height="30" width="40" /></a>
+<a href="https://medium.com/@saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saakeeb" height="30" width="40" /></a>
+</p>
+<br/>
 
 ![Sakib's github stats](https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true&theme=dark)
 
@@ -26,14 +36,3 @@
 <br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=compact" alt="saakeeb" /></p>
 
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saakeeb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nazmus-sakib-developer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazmus-sakib-developer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12980133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12980133" height="30" width="40" /></a>
-<a href="https://fb.com/sakib752" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sakib752" height="30" width="40" /></a>
-<a href="https://instagram.com/n_saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n_saakeeb" height="30" width="40" /></a>
-<a href="https://medium.com/@saakeeb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saakeeb" height="30" width="40" /></a>
-</p>
