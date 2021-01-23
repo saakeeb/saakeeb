@@ -25,10 +25,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saakeeb&label=Profile%20views&color=0e75b6&style=flat" alt="saakeeb" /> </p>
 <br/>
 
-![Sakib's github stats](https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb" /></p>
 
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=compact" alt="saakeeb" /></p>
+<p  align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=compact" alt="saakeeb" /></p>
 
