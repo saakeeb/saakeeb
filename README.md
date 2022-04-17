@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nazmus-sakib.web.app/](https://nazmus-sakib.web.app/)
 
-- 💬 2021 Goals: **Learn VueJS, TypeScript, Next.js**
+- 💬 2022 Goals: **Redux, TypeScript, Next.js**
 
 - 📫 How to reach me **sakib14april@gmail.com**
 
