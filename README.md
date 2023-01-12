@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **ReactJS and other library and framework**
 
-- 👨‍💻 All of my projects are available at [https://nazmus-sakib.web.app/](https://nazmus-sakib.web.app/)
-
 - 💬 2022 Goals: **Redux, TypeScript, Next.js**
 
 - 📫 How to reach me **sakib14april@gmail.com**
