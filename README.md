@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 there, I'm <a href="https://nazmus-sakib.web.app/" rel="nofollow">Nazmus Sakib</a></h1>
+<h1 align="center">Hi 👋 there, I'm <a href="https://nazmus-home.netlify.app/" rel="nofollow">Nazmus Sakib</a></h1>
 <h3 align="center">An enthusiast frontend developer</h3>
 <br/><br/>
 
