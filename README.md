@@ -2,9 +2,9 @@
 <h3 align="center">An enthusiast frontend developer</h3>
 <br/><br/>
 
-- 🌱 I’m currently learning **ReactJS and other library and framework**
+- 🌱 I’m currently working with **ReactJS and other library and framework**
 
-- 💬 2022 Goals: **Redux, TypeScript, Next.js**
+- 💬 2023 Goals: **Next.js, Nodejs, AWS, Python**
 
 - 📫 How to reach me **sakib14april@gmail.com**
 
