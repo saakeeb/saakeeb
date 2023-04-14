@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiast frontend developer</h3>
 <br/><br/>
 
-- 🌱 I’m currently working with **ReactJS and other library and framework**
+- 🌱 I’m currently working with **Javascript, Typescript, Tailwind, ReactJS and other library and framework**
 
 - 💬 2023 Goals: **Next.js, Nodejs, AWS, Python**
 
