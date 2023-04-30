@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there, I'm <a href="https://nazmus-home.netlify.app/" rel="nofollow">Nazmus Sakib</a></h1>
+<h1 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="saakeeb" height="60" width="60" /> there, I'm <a href="https://nazmus-home.netlify.app/" rel="nofollow">Nazmus Sakib</a></h1>
 <h3 align="center">An enthusiast frontend developer</h3>
 <br/><br/>
 
