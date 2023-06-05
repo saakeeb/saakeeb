@@ -19,16 +19,13 @@
 <a href="https://twitter.com/saakeeb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saakeeb @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nazmus-sakib-developer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazmus-sakib-developer @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12980133" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12980133 @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/sakib752" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a> -->
 <a href="https://instagram.com/n_saakeeb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n_saakeeb @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
 <a href="https://saakeeb.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saakeeb&label=Profile%20views&color=0e75b6&style=flat" alt="saakeeb" /> </p>
 <br/>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb" /></p>
-
 <br/>
-
 <p  align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=donut" alt="saakeeb" /></p>
 
