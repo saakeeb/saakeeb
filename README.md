@@ -5,13 +5,13 @@
 <h3 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="saakeeb" height="60" width="60" /> there, I am an enthusiast Frontend Engineer</h3>
 <br/><br/>
 
-- 🌱 I’m currently working with **Javascript, Typescript, Tailwind, ReactJS and other library and framework**
+- 🌱 I’m currently working with **Javascript, Typescript, Tailwind, ReactJS, and other libraries and framework**
 
 - 💬 2023 Goals: **Next.js, Nodejs, AWS, Python**
 
 - 📫 How to reach me **sakib14april@gmail.com**
 
-- ⚡ Fun fact **I love to travel, play cricket**
+- ⚡ Fun fact **I love to travel and play cricket**
 
 <br/><br/>
 <h3 align="center">Connect with me:</h3>
@@ -25,7 +25,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saakeeb&label=Profile%20views&color=0e75b6&style=flat" alt="saakeeb" /> </p>
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb" /></p>
+<p height="200" width="440" align="center"><img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb"/></p>
 <br/>
-<p  align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=donut" alt="saakeeb" /></p>
+<p  height="200" width="440" align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=donut" alt="saakeeb" /></p>
 
