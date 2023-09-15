@@ -1,9 +1,9 @@
-<div style="position: relative; text-align: center">
-  <div style="position: absolute; left: 50%; transform: translate(-50%)">
+<div align="center">
+  <div style="display: block; margin: auto;">
     <div>
       <div>
         <div class="name">
-          <span class="field">Nazmus Sakib</span>
+          <span style="font-weight: bold; font-size: 36px;">Nazmus Sakib</span>
         </div>
       </div>
     </div>
@@ -11,9 +11,7 @@
       <div>
         <div class="address">
           <div>
-            <span>Narsingdi, Dhaka, </span>
-            <span class="spaced field">1600,</span>
-            <span class="spaced field">Bangladesh</span>
+            <span>Narsingdi, Dhaka, 1600, Bangladesh</span>
           </div>
           <div>
             <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
@@ -26,6 +24,7 @@
     </div>
   </div>
 </div>
+
 
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
