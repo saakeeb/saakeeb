@@ -24,6 +24,22 @@
     </div>
   </div>
 </div>
+<br/>
+<div>
+  <div>
+    <div>Professional summary:</div>
+  </div>
+  <div>
+    <div>
+      Frontend developer with 3 years of experience with a grasp of software
+      development principles and best practices and proficiency in using Git,
+      and other development tools. I can effectively collaborate with agile
+      teams and stakeholders and am eager to learn new technologies. As a
+      problem-solver with an analytical mind, I am excited to join and
+      contribute to your team.
+    </div>
+  </div>
+</div>
 
 
 
