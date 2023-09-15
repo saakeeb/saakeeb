@@ -38,8 +38,19 @@
     </div>
   </div>
 </div>
-
-
+<br/>
+<div>
+  <div>
+    <div>Skills:</div>
+  </div>
+  <div>
+    HTML5 • CSS3 • SASS • Bootstrap • Material UI • Tailwind CSS
+    <br/>
+    JavaScript • JQuery • Typescript •  ReactJs • NextJs • Redux • GraphQL • Socket.io
+    <br/>
+    Agile Development • Optimization • A/B Test • UI/UX • Cross Browser Compatibility • Git • Github • Gitlab
+  </div>
+</div>
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
   <img src="https://user-images.githubusercontent.com/60483192/236107328-8bd4fc5d-561a-402f-9c7b-cc1b3c05d4d3.svg" alt="saakeeb" style="width: 100%; display: block; margin: auto; height: 120px">
