@@ -1,3 +1,34 @@
+<div style="position: relative;">
+  <div>
+    <div>
+      <div class="name">
+        <span class="field">Nazmus</span>
+        <span> </span>
+        <span class="field">Sakib</span>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <div class="address">
+        <div>
+          <span>Narsingdi, Dhaka, </span>
+          <span class="spaced field">1600,</span>
+          <span class="spaced field">Bangladesh</span>
+        </div>
+        <div>
+          <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
+        </div>
+        <div>
+          <span class="field">+8801921652823</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
 <a href="https://nazmus-home.netlify.app/" target="_blank">
   <img src="https://user-images.githubusercontent.com/60483192/236107328-8bd4fc5d-561a-402f-9c7b-cc1b3c05d4d3.svg" alt="saakeeb" style="width: 100%; display: block; margin: auto; height: 120px">
 </a>
