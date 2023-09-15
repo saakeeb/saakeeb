@@ -2,8 +2,8 @@
   <div style="display: block; margin: auto;">
     <div>
       <div>
-        <div class="name">
-          <span style="font-weight: bold; font-size: 36px;">Nazmus Sakib</span>
+        <div>
+          Nazmus Sakib
         </div>
       </div>
     </div>
@@ -26,9 +26,7 @@
 </div>
 <br/>
 <div>
-  <div>
-    <div>Professional summary:</div>
-  </div>
+  <div>Professional summary:</div>
   <div>
     <div>
       Frontend developer with 3 years of experience with a grasp of software
