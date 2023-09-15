@@ -26,7 +26,9 @@
 </div>
 <br/>
 <div>
-  <div>Professional summary:</div>
+   <div>
+      <b><i>Professional summary:</i></b>
+      </div>
   <div>
     <div>
       Frontend developer with 3 years of experience with a grasp of software
@@ -41,7 +43,9 @@
 <br/>
 <div>
   <div>
-    <div>Skills:</div>
+    <div>
+      <b><i>Skills:</i></b>
+      </div>
   </div>
   <div>
     HTML5 • CSS3 • SASS • Bootstrap • Material UI • Tailwind CSS
@@ -49,6 +53,30 @@
     JavaScript • JQuery • Typescript •  ReactJs • NextJs • Redux • GraphQL • Socket.io
     <br/>
     Agile Development • Optimization • A/B Test • UI/UX • Cross Browser Compatibility • Git • Github • Gitlab
+  </div>
+</div>
+<br/>
+<div>
+  <div>
+    <div>
+      <b><i>Problem-Solving</i>
+      </div>
+    <ul>
+      <li class="level-2">
+        Link: https://vjudge.net/user/saakeeb,
+        https://www.stopstalk.com/user/profile/saakeeb<br />
+      </li>
+    </ul>
+    <div>
+      <strong><em>Recognition</em></strong>
+    </div>
+    <ul>
+      <li class="level-2">
+        <div>
+          Employee of the Week recognition at Brillmark LLCz
+        </div>
+      </li>
+    </ul>
   </div>
 </div>
 
