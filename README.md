@@ -1,32 +1,31 @@
-<div style="position: relative;">
-  <div>
+<div style="position: relative; text-align: center">
+  <div style="position: absolute; left: 50%; transform: translate(-50%)">
     <div>
-      <div class="name">
-        <span class="field">Nazmus</span>
-        <span> </span>
-        <span class="field">Sakib</span>
+      <div>
+        <div class="name">
+          <span class="field">Nazmus Sakib</span>
+        </div>
       </div>
     </div>
-  </div>
-  <div>
     <div>
-      <div class="address">
-        <div>
-          <span>Narsingdi, Dhaka, </span>
-          <span class="spaced field">1600,</span>
-          <span class="spaced field">Bangladesh</span>
-        </div>
-        <div>
-          <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
-        </div>
-        <div>
-          <span class="field">+8801921652823</span>
+      <div>
+        <div class="address">
+          <div>
+            <span>Narsingdi, Dhaka, </span>
+            <span class="spaced field">1600,</span>
+            <span class="spaced field">Bangladesh</span>
+          </div>
+          <div>
+            <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
+          </div>
+          <div>
+            <span class="field">+8801921652823</span>
+          </div>
         </div>
       </div>
     </div>
   </div>
 </div>
-
 
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
