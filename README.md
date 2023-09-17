@@ -73,7 +73,7 @@
     <ul>
       <li class="level-2">
         <div>
-          Employee of the Week recognition at Brillmark LLCz
+          Employee of the Week recognition at Brillmark LLC
         </div>
       </li>
     </ul>
