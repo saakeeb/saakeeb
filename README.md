@@ -86,7 +86,7 @@
     </div>
   </div>
   <div>
-    <div><span>ReactJs Developer</span><br/><span>DevxHub</span></div>
+    <div align="left"><span>ReactJs Developer</span><br/><span>DevxHub</span></div>
     <div align="right">
         <span>Jul 2023 - Current</span><br/><span>Rajshahi, Bangladesh</span>
     </div>
