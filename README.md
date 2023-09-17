@@ -79,6 +79,21 @@
     </ul>
   </div>
 </div>
+<div>
+  <div>
+    <div>
+      <b><i>Experiences:</i></b>
+    </div>
+  </div>
+  <div>
+    <div align="justify">
+       <div>
+         <span>ReactJs Developer</span><br/><span>DevxHub<span>
+       </div>
+       <div><span>Jul 2023 - Current</span><br/><span>Rajshahi, Bangladesh<span></div>
+    </div>
+  </div>
+</div>
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
   <img src="https://user-images.githubusercontent.com/60483192/236107328-8bd4fc5d-561a-402f-9c7b-cc1b3c05d4d3.svg" alt="saakeeb" style="width: 100%; display: block; margin: auto; height: 120px">
