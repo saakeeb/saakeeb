@@ -86,13 +86,12 @@
     </div>
   </div>
   <div>
-    <div align="justify">
-       <div>
-         <span>ReactJs Developer</span><br/><span>DevxHub<span>
-       </div>
-       <div><span>Jul 2023 - Current</span><br/><span>Rajshahi, Bangladesh<span></div>
+    <div><span>ReactJs Developer</span><br/><span>DevxHub</span></div>
+    <div align="right">
+        <span>Jul 2023 - Current</span><br/><span>Rajshahi, Bangladesh</span>
     </div>
-  </div>
+</div>
+
 </div>
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
