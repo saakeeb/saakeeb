@@ -86,11 +86,25 @@
     </div>
   </div>
   <div>
-    <div align="left"><span>ReactJs Developer</span><br/><span>DevxHub</span></div>
-    <div align="right">
-        <span>Jul 2023 - Current</span><br/><span>Rajshahi, Bangladesh</span>
+    <div align="left">
+      <span>ReactJs Developer</span><br /><span>DevxHub</span>
     </div>
+    <div align="right">
+      <span>Jul 2023 - Current</span><br /><span>Rajshahi, Bangladesh</span>
+    </div>
+    <div>
+      • Collaborating with the backend team and design team for seamless
+      front-end feature implementation. <br>• Leading a four-person team in code
+      reviews for quality standards and best practices. <br>• Mentoring training
+      interns for growth and expertise sharing.
+    </div>
+  </div>
+  <div>
+    <b><i>Project:</i></b><br>
+    • Opal • Parkole
+  </div>
 </div>
+
 
 </div>
 
