@@ -91,13 +91,13 @@
     </div>
     <div>
       • Collaborating with the backend team and design team for seamless
-      front-end feature implementation. <br>• Leading a four-person team in code
-      reviews for quality standards and best practices. <br>• Mentoring training
+      front-end feature implementation. <br/>• Leading a four-person team in code
+      reviews for quality standards and best practices. <br/>• Mentoring training
       interns for growth and expertise sharing.
     </div>
   </div>
   <div>
-    <b><i>Project:</i></b><br>
+    <b><i>Project:</i></b><br/>
     • Opal • Parkole
   </div>
 </div>
