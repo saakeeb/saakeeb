@@ -98,7 +98,7 @@
   </div>
   <div>
     <b><i>Project:</i></b><br/>
-    • Opal • Parkole
+    • Opal • Parkolay
   </div>
 </div>
 
