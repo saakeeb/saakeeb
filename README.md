@@ -81,10 +81,10 @@
 </div>
 <div>
   <div>
-    <div>
-      <b><i>Experiences:</i></b>
-    </div>
+    <b><i>Experiences:</i></b>
   </div>
+</div>
+<div>
   <div>
     <div>
       ReactJs Developer (July 2023 - Current)<br />DevxHub (Rajshahi, Bangladesh)
