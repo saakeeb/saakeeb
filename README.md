@@ -102,6 +102,25 @@
   </div>
 </div>
 
+<div>
+  <div>
+    <div>
+      Frontend Engineer (May 2023 - July 2023)<br />Nexuses (Melaka, Malaysia)
+    </div>
+    <div>
+      • Refactored Class Components to Functional Components for performance and
+      maintainability. <br />• Debugged and fixed bugs, ensuring responsiveness
+      with styled components. <br />• Upgraded Next.Js 12 to Next.Js13 for
+      enhanced features and optimizations.
+    </div>
+  </div>
+  <div>
+    <b><i>Project:</i></b
+    ><br />
+    • https://nexuses.io/
+  </div>
+</div>
+
 
 </div>
 
