@@ -89,12 +89,12 @@
     <div>
       ReactJs Developer (July 2023 - Current)<br />DevxHub (Rajshahi, Bangladesh)
     </div>
-    <div>
+    <span>
       • Collaborating with the backend team and design team for seamless
       front-end feature implementation. <br/>• Leading a four-person team in code
       reviews for quality standards and best practices. <br/>• Mentoring training
       interns for growth and expertise sharing.
-    </div>
+    </span>
   </div>
   <div>
     <b><i>Project:</i></b><br/>
@@ -107,12 +107,12 @@
     <div>
       Frontend Engineer (May 2023 - July 2023)<br />Nexuses (Melaka, Malaysia)
     </div>
-    <div>
+    <span>
       • Refactored Class Components to Functional Components for performance and
       maintainability. <br />• Debugged and fixed bugs, ensuring responsiveness
       with styled components. <br />• Upgraded Next.Js 12 to Next.Js13 for
       enhanced features and optimizations.
-    </div>
+    </span>
   </div>
   <div>
     <b><i>Project:</i></b
