@@ -119,6 +119,21 @@
     • https://nexuses.io/
   </div>
 </div>
+      <br/>
+<div>
+  <div>
+    <div>
+      Frontend Developer (August 2022 - February 2023)<br />C-Sunshine
+      (Bratislava, Slovakia)
+    </div>
+    <div>
+      • Enhanced UI/UX and implemented new features in client projects, using
+      GitLab tickets. <br />• Diagnosed and resolved bugs using debugging tools,
+      ensuring efficient code functionality. <br />• Optimized code and scripts,
+      and ensured project requirement compliance.
+    </div>
+  </div>
+</div>
 
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
