@@ -134,6 +134,27 @@
     </div>
   </div>
 </div>
+<br/>
+<div>
+  <div>
+    <div>
+      Frontend Developer (May 2021 - June 2022)<br />Brillnark LLC (California,
+      USA)
+    </div>
+    <div>
+      • Contributed to new feature implementation on 100+ websites for 20+
+      clients. <br />• Aided in optimizing pages, Analytics and A/B tests,
+      resulting in an engagement boost. <br />• Supported an Agile team of 47,
+      utilizing Trello, Proofhub, Slack, and Tickspot for faster project
+      delivery.
+    </div>
+  </div>
+  <div>
+    <b><i>Project:</i></b><br />
+    • https://americanaddictioncenters.org/ • https://www.denon.com/en-us/,
+  </div>
+</div>
+
 
 
 <a href="https://nazmus-home.netlify.app/" target="_blank">
