@@ -171,7 +171,7 @@
 </div>
 <br />
 <div>
-    <b><i>language:</i></b>
+    <b><i>Language:</i></b>
 </div>
 <div>
   <span>
