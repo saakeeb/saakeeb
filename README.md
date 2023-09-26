@@ -154,6 +154,7 @@
     • https://americanaddictioncenters.org/ • https://www.denon.com/en-us/,
   </div>
 </div>
+<br />
 <div>
     <b><i>Education:</i></b>
 </div>
