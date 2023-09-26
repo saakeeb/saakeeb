@@ -169,11 +169,25 @@
     GPA: 3.24
   </div>
 </div>
+<br />
+<div>
+    <b><i>language:</i></b>
+</div>
+<div>
+  <span>
+    • English 
+	</span>
+	<br/>
+  <span>
+    • Bangla
+	</span>
+</div>
 
 
 
 
 
+<br /><br />
 <a href="https://nazmus-home.netlify.app/" target="_blank">
   <img src="https://user-images.githubusercontent.com/60483192/236107328-8bd4fc5d-561a-402f-9c7b-cc1b3c05d4d3.svg" alt="saakeeb" style="width: 100%; display: block; margin: auto; height: 120px">
 </a>
