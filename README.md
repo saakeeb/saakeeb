@@ -119,7 +119,7 @@
     • https://nexuses.io/
   </div>
 </div>
-      <br/>
+<br/>
 <div>
   <div>
     <div>
@@ -154,6 +154,22 @@
     • https://americanaddictioncenters.org/ • https://www.denon.com/en-us/,
   </div>
 </div>
+<div>
+    <b><i>Education:</i></b>
+</div>
+<div>
+  <div>
+    Bachelor of Science: Electrical and Electronic Engineering (May 2014 - April 2018)
+  </div>
+  <div>
+    University of Information Technology and Sciences (Dhaka, Bangladesh)
+  </div>
+  <div>
+    GPA: 3.24
+  </div>
+</div>
+
+
 
 
 
