@@ -96,10 +96,6 @@
       interns for growth and expertise sharing.
     </span>
   </div>
-  <div>
-    <b><i>Project:</i></b><br />
-    • Opal • Parkolay
-  </div>
 </div>
 <br />
 <div>
