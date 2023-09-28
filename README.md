@@ -87,7 +87,7 @@
 <div>
   <div>
     <div>
-      ReactJs Developer (July 2023 - Current)<br />DevxHub (Rajshahi, Bangladesh)
+      ReactJs Developer (July 2023 - Current)<br />DEVxHUB (Rajshahi, Bangladesh)
     </div>
     <span>
       • Collaborating with the backend team and design team for seamless
