@@ -172,11 +172,11 @@
 <div>
   <span>
     • English 
-	</span>
+  </span>
 	<br/>
   <span>
     • Bangla
-	</span>
+  </span>
 </div>
 
 
