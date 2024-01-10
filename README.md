@@ -205,9 +205,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saakeeb&label=Profile%20views&color=0e75b6&style=flat" alt="saakeeb reactjs" /> </p>
 <br />
-<p style="display: flex; justify-content: center; align-items: center; height: 100px; width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb" style="height: 100%; width: 100%;">
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb">
 </p>
