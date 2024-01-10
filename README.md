@@ -190,7 +190,7 @@
 <h3 align="center">Hi <img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="saakeeb" height="60" width="60" /> there, I am an enthusiast Frontend Engineer</h3>
 <br /><br />
 
-<br /><br />
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/saakeeb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saakeeb @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
