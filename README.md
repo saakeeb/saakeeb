@@ -63,9 +63,11 @@
     </div>
     <ul>
       <li class="level-2">
-        Link: https://vjudge.net/user/saakeeb,
-        https://www.stopstalk.com/user/profile/saakeeb<br />
+	      <a href="https://vjudge.net/user/saakeeb">VJudge</a>
       </li>
+	    <li>
+		    <a href="https://www.stopstalk.com/user/profile/saakeeb">StopStalk</a>
+	    </li>
     </ul>
     <div>
       <strong><em>Recognition</em></strong>
