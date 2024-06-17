@@ -149,7 +149,14 @@
   </div>
   <div>
     <b><i>Project:</i></b><br />
-    • https://americanaddictioncenters.org/ • https://www.denon.com/en-us/,
+	  <ul>
+      <li class="level-2">
+	      <a href="https://americanaddictioncenters.org/">American Addiction Center</a>
+      </li>
+	    <li>
+		    <a href="https://www.denon.com/en-us/">Denon</a>
+	    </li>
+    </ul>
   </div>
 </div>
 <br />
