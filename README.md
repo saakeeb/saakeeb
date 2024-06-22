@@ -11,7 +11,7 @@
       <div>
         <div class="address">
           <div>
-            <span>Narsingdi, Dhaka, 1600, Bangladesh</span>
+            <span>Dhaka, 1600, Bangladesh</span>
           </div>
           <div>
             <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
