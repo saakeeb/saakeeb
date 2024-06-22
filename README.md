@@ -11,7 +11,7 @@
       <div>
         <div class="address">
           <div>
-            <span>Dhaka, 1600, Bangladesh</span>
+            <span>Dhaka, Bangladesh, 1600</span>
           </div>
           <div>
             <span dependency="EMAIL" class="field">sakib14april@gmail.com</span>
