@@ -211,24 +211,29 @@
 <br />
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Saakeeb Random Readme Quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=darkb&hide_border=true" alt="Saakeeb Random Readme Quotes">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb GitHub stats">
-</p>
+<!--<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&count_private=true&show_icons=true" alt="saakeeb GitHub stats">
+</p> -->
 <br />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=donut" alt="saakeeb github top language">
-</p>
+
+  <h2> <img align="center" src="https://github.com/saakeeb/saakeeb/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+  <div align="center">
+	  <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&hide_border=false&include_all_commits=true&count_private=true" alt="saakeeb GitHub stats | nazmus"">
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saakeeb&hide_border=false" alt="saakeeb GitHub stats | nazmus"">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saakeeb&show_icons=true&hide_border=false&include_all_commits=true&count_private=truet&locale=en&layout=donut" alt="saakeeb GitHub stats | nazmus"">
+	  <br/> <br/>
+	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saakeeb&theme=transparent" alt="saakeeb GitHub stats | nazmus"">
+	  
+  </div>
 
 
 
 
-
-
-<div>
+<div align="center">
 	<a href="https://nazmus.me" target="_blank">
   		<img src="https://github.com/saakeeb/saakeeb/assets/60483192/230e94bf-4e60-49f7-a3c9-a3bbf129532b" alt="saakeeb GitHub stats, nazmus"">
 	</a>
