@@ -222,3 +222,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saakeeb&show_icons=true&locale=en&layout=donut" alt="saakeeb github top language">
 </p>
+
+
+
+
+
+
+<div>
+	<a href="https://nazmus.me" target="_blank">
+  		<img src="https://github.com/saakeeb/saakeeb/assets/60483192/230e94bf-4e60-49f7-a3c9-a3bbf129532b" alt="saakeeb GitHub stats, nazmus"">
+	</a>
+</div>
