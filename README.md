@@ -192,7 +192,7 @@
 
 <br /><br />
 
-<a href="https://nazmus-home.netlify.app/" target="_blank">
+<a href="https://nazmus.me" target="_blank">
   <img src="https://user-images.githubusercontent.com/60483192/236107328-8bd4fc5d-561a-402f-9c7b-cc1b3c05d4d3.svg" alt="saakeeb" style="width: 100%; display: block; margin: auto; height: 120px">
 </a>
 <hr />
@@ -201,11 +201,21 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://x.com/Nazmusdevs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saakeeb @saakeeb @Nazmusdevs medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/nazmus-sakib-developer" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazmus-sakib-developer @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/12980133" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12980133 @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
-  <a href="https://instagram.com/n_saakeeb" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n_saakeeb @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
-  <a href="https://saakeeb.medium.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nazmus-sakib-developer" target="_blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nazmus-sakib-developer @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" />
+  </a>
+  <a href="https://saakeeb.medium.com/" target="_blank">
+	<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" />
+  </a>
+  <a href="https://x.com/Nazmusdevs" target="_blank">
+	  <img align="center" src="https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4" alt="saakeeb @saakeeb @Nazmusdevs medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/12980133" target="_blank">
+	  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12980133 @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/n_saakeeb" target="_blank">
+	  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="n_saakeeb @saakeeb medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" />
+  </a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=saakeeb&label=Profile%20views&color=0e75b6&style=flat" alt="saakeeb reactjs" /> </p>
 <br />
@@ -238,3 +248,4 @@
   		<img src="https://github.com/saakeeb/saakeeb/assets/60483192/230e94bf-4e60-49f7-a3c9-a3bbf129532b" alt="saakeeb GitHub stats, nazmus"">
 	</a>
 </div>
+![X_logo_2023_original](https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4)
