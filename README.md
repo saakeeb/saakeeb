@@ -248,4 +248,3 @@
   		<img src="https://github.com/saakeeb/saakeeb/assets/60483192/230e94bf-4e60-49f7-a3c9-a3bbf129532b" alt="saakeeb GitHub stats, nazmus"">
 	</a>
 </div>
-![X_logo_2023_original](https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4)
