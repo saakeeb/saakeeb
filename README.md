@@ -230,7 +230,9 @@
 <br />
 
 
-  <h2> <img align="center" src="https://github.com/saakeeb/saakeeb/blob/main/icons/stats.gif" width="32"/> Stats</h2>
+  <h2> 
+	  <img align="center" src="https://github.com/saakeeb/saakeeb/blob/main/icons/stats.gif" width="32"/> Stats
+  </h2>
   <div align="center">
 	  <img src="https://github-readme-stats.vercel.app/api?username=saakeeb&hide_border=false&include_all_commits=true&count_private=true" alt="saakeeb GitHub stats | nazmus"">
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saakeeb&hide_border=false" alt="saakeeb GitHub stats | nazmus"">
