@@ -229,7 +229,6 @@
 </p> -->
 <br />
 
-
   <h2> 
 	  <img align="center" src="https://github.com/saakeeb/saakeeb/blob/main/icons/stats.gif" width="32"/> Stats
   </h2>
