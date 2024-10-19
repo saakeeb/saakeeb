@@ -71,7 +71,7 @@ Successfully delivered multiple large-scale projects, where I showcased my abili
   <a href="https://stackoverflow.com/users/12980133" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/n_saakeeb" target="_blank">
+  <a href="https://instagram.com/sakib_dev" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
