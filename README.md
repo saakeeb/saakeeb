@@ -1,14 +1,15 @@
 <div>
-  <h4>Nazmus Sakib</br>
-  Dhaka, Bangladesh, 1600</br>
-  Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
-  Phone: +8801921652823</h4>
+  <h4>
+    Nazmus Sakib</br>
+    Dhaka, Bangladesh, 1600</br>
+    Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
+  </h4>
 </div>
 
 ---
 
 ### Professional Summary
-Frontend developer with 3 years of experience, proficient in software development principles and best practices. Skilled in Git and other development tools, with a strong ability to collaborate with agile teams and stakeholders. Eager to learn new technologies and contribute to your team as a problem-solver with an analytical mind.
+Successfully delivered multiple large-scale projects, where I showcased my ability to lead initiatives from scratch and received positive feedback from my team for my contributions. I rapidly learned and implemented advanced frameworks and libraries, significantly improving project efficiency. By following industry best practices and writing thorough unit tests, I ensured high-quality, scalable solutions, contributing to the overall success of each project.
 
 ### Experiences
 - **ReactJs Developer** (July 2023 - Present) at DEVxHUB, Rajshahi, Bangladesh
