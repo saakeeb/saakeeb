@@ -11,8 +11,10 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - main
+    - master
     
+  
+
 jobs:
   generate:
     permissions: 
@@ -30,8 +32,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      
-            # push the content of <build_dir> to a branch
+          
+      # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
