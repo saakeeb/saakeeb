@@ -44,7 +44,7 @@ Successfully delivered multiple large-scale projects, where I showcased my abili
 - [StopStalk](https://www.stopstalk.com/user/profile/saakeeb)
 
 ### Recognition
-- Employee of the Week at Brillmark LLC
+- Employee of the Month at Brillmark LLC
 
 ### Education
 - Bachelor of Science in Electrical and Electronic Engineering (May 2014 - April 2018)
