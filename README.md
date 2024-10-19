@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Nazmus Sakib</h1>
   <p>Dhaka, Bangladesh, 1600</p>
   <p>Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></p>
@@ -65,7 +65,7 @@ Frontend developer with 3 years of experience, proficient in software developmen
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="https://x.com/Nazmusdevs" target="_blank">
-    <img src="https://github.com/saakeeb/saakeeb/assets/60483192/" alt="Twitter" height="30" width="30" />
+    <img src="https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4" alt="saakeeb @saakeeb @Nazmusdevs medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/12980133" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" />
@@ -74,6 +74,10 @@ Frontend developer with 3 years of experience, proficient in software developmen
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
+
+<a href="https://x.com/Nazmusdevs" target="_blank">
+	  <img align="center" src="https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4" alt="saakeeb @saakeeb @Nazmusdevs medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="30" />
+  </a>
 
 ---
 
@@ -93,12 +97,12 @@ Frontend developer with 3 years of experience, proficient in software developmen
 </p>
 
 ---
-
+<!-- 
 <div align="center">
   <a href="https://nazmus.me" target="_blank">
     <img src="https://github.com/saakeeb/saakeeb/assets/60483192/230e94bf-4e60-49f7-a3c9-a3bbf129532b" alt="Personal Website" style="width: 100%; height: 120px;">
   </a>
-</div>
+</div> -->
 
 <div>
   <picture>
