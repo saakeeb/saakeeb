@@ -10,18 +10,6 @@
 ### Professional Summary
 Frontend developer with 3 years of experience, proficient in software development principles and best practices. Skilled in Git and other development tools, with a strong ability to collaborate with agile teams and stakeholders. Eager to learn new technologies and contribute to your team as a problem-solver with an analytical mind.
 
-### Skills
-- **Frontend**: HTML5, CSS3, SASS, Bootstrap, Material UI, Tailwind CSS
-- **JavaScript**: JavaScript, JQuery, TypeScript, ReactJs, NextJs, Redux, GraphQL, Socket.io
-- **Development**: Agile Development, Optimization, A/B Testing, UI/UX, Cross Browser Compatibility, Git, GitHub, GitLab
-
-### Problem-Solving
-- [VJudge](https://vjudge.net/user/saakeeb)
-- [StopStalk](https://www.stopstalk.com/user/profile/saakeeb)
-
-### Recognition
-- Employee of the Week at Brillmark LLC
-
 ### Experiences
 - **ReactJs Developer** (July 2023 - Present) at DEVxHUB, Rajshahi, Bangladesh
   - Collaborated with backend and design teams for seamless front-end feature implementation.
@@ -44,6 +32,18 @@ Frontend developer with 3 years of experience, proficient in software developmen
   - Aided in optimizing pages, Analytics, and A/B tests, resulting in an engagement boost.
   - Supported an Agile team of 47, utilizing Trello, Proofhub, Slack, and Tickspot for faster project delivery.
   - Projects: [American Addiction Center](https://americanaddictioncenters.org/), [Denon](https://www.denon.com/en-us/)
+
+### Skills
+- **Frontend**: HTML5, CSS3, SASS, Bootstrap, Material UI, Tailwind CSS
+- **JavaScript**: JavaScript, JQuery, TypeScript, ReactJs, NextJs, Redux, GraphQL, Socket.io
+- **Development**: Agile Development, Optimization, A/B Testing, UI/UX, Cross Browser Compatibility, Git, GitHub, GitLab
+
+### Problem-Solving
+- [VJudge](https://vjudge.net/user/saakeeb)
+- [StopStalk](https://www.stopstalk.com/user/profile/saakeeb)
+
+### Recognition
+- Employee of the Week at Brillmark LLC
 
 ### Education
 - Bachelor of Science in Electrical and Electronic Engineering (May 2014 - April 2018)
