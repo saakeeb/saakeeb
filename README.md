@@ -1,8 +1,8 @@
 <div>
-  <p><strong>Nazmus Sakib</strong></p>
-  <p>Dhaka, Bangladesh, 1600</p>
-  <p>Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></p>
-  <p>Phone: +8801921652823</p>
+  <h4>Nazmus Sakib</h4>
+  <p>Dhaka, Bangladesh, 1600</br>
+  Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
+  Phone: +8801921652823</p>
 </div>
 
 ---
