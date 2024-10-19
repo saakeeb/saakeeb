@@ -1,8 +1,8 @@
 <div>
-  <h3>Nazmus Sakib</br>
+  <h4>Nazmus Sakib</br>
   Dhaka, Bangladesh, 1600</br>
   Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
-  Phone: +8801921652823</h3>
+  Phone: +8801921652823</h4>
 </div>
 
 ---
