@@ -1,8 +1,8 @@
 <div>
-  <h4>Nazmus Sakib</h4>
-  <p>Dhaka, Bangladesh, 1600</br>
+  <h3>Nazmus Sakib</br>
+  Dhaka, Bangladesh, 1600</br>
   Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
-  Phone: +8801921652823</p>
+  Phone: +8801921652823</h3>
 </div>
 
 ---
@@ -39,7 +39,7 @@ Frontend developer with 3 years of experience, proficient in software developmen
   - Diagnosed and resolved bugs using debugging tools, ensuring efficient code functionality.
   - Optimized code and scripts, ensuring project requirement compliance.
 
-- **Frontend Developer** (May 2021 - June 2022) at Brillmark LLC, California, USA
+- **Frontend Developer** (April 2021 - June 2022) at Brillmark LLC, California, USA
   - Contributed to new feature implementation on 100+ websites for 20+ clients.
   - Aided in optimizing pages, Analytics, and A/B tests, resulting in an engagement boost.
   - Supported an Agile team of 47, utilizing Trello, Proofhub, Slack, and Tickspot for faster project delivery.
