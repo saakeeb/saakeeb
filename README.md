@@ -1,7 +1,7 @@
 <div>
   <h4>
     Nazmus Sakib</br>
-    Dhaka, Bangladesh, 1600</br>
+    Dhaka, Bangladesh</br>
     Email: <a href="mailto:sakib14april@gmail.com">sakib14april@gmail.com</a></br>
   </h4>
 </div>
