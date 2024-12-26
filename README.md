@@ -62,11 +62,11 @@ Successfully delivered multiple large-scale projects, where I showcased my abili
   <a href="https://linkedin.com/in/nazmus-sakib-developer" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://saakeeb.medium.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
   <a href="https://x.com/Nazmusdevs" target="_blank">
     <img src="https://github.com/saakeeb/saakeeb/assets/60483192/3f452617-6106-4cd9-b209-7436e7f104e4" alt="saakeeb @saakeeb @Nazmusdevs medium @dev.saakeeb @nazmus-sakib-developer frontend developer" height="30" width="30" />
+  </a>
+  <a href="https://saakeeb.medium.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/12980133" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="40" />
