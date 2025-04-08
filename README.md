@@ -35,9 +35,9 @@ Successfully delivered multiple large-scale projects, where I showcased my abili
   - Projects: [American Addiction Center](https://americanaddictioncenters.org/), [Denon](https://www.denon.com/en-us/)
 
 ### Skills
-- **Frontend**: HTML5, CSS3, SASS, Bootstrap, Material UI, Tailwind CSS
+- **Frontend**: HTML5, CSS3, SASS, Bootstrap, Material UI, Tailwind CSS, ShadCN
 - **JavaScript**: JavaScript, JQuery, TypeScript, ReactJs, NextJs, Redux, GraphQL, Socket.io
-- **Development**: Agile Development, Optimization, A/B Testing, UI/UX, Cross Browser Compatibility, Git, GitHub, GitLab
+- **Development**: Agile Development, Optimization, A/B Testing, UI/UX, Cross Browser Compatibility, Git, GitHub, GitLab, Linux
 
 ### Problem-Solving
 - [VJudge](https://vjudge.net/user/saakeeb)
