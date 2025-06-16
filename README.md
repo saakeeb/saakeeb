@@ -12,7 +12,7 @@
 Successfully delivered multiple large-scale projects, where I showcased my ability to lead initiatives from scratch and received positive feedback from my team for my contributions. I rapidly learned and implemented advanced frameworks and libraries, significantly improving project efficiency. By following industry best practices and writing thorough unit tests, I ensured high-quality, scalable solutions, contributing to the overall success of each project.
 
 ### Experiences
-- **ReactJs Developer** (July 2023 - Present) at <a href="https://devxhub.com/" target="_blank">DEVxHUB</a>, Rajshahi, Bangladesh
+- **Frontend Project Lead** (July 2023 - Present) at <a href="https://devxhub.com/" target="_blank">DEVxHUB</a>, Rajshahi, Bangladesh
   - Collaborated with backend and design teams for seamless front-end feature implementation.
   - Led a team of four in code reviews for quality standards and best practices.
   - Mentored and trained interns for growth and expertise sharing.
@@ -20,7 +20,7 @@ Successfully delivered multiple large-scale projects, where I showcased my abili
 - **Frontend Engineer** (May 2023 - July 2023) at Nexuses, Melaka, Malaysia
   - Refactored Class Components to Functional Components for performance and maintainability.
   - Debugged and fixed bugs, ensuring responsiveness with styled components.
-  - Upgraded Next.Js 12 to Next.Js 13 for enhanced features and optimizations.
+  - Upgraded Next.js 12 to Next.js 13 for enhanced features and optimizations.
   - Project: [Nexuses](https://nexuses.io/)
 
 - **Frontend Developer** (August 2022 - February 2023) at C-Sunshine, Bratislava, Slovakia
